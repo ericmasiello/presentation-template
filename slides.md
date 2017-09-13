@@ -12,11 +12,11 @@
 
 ## About me
 
-* @ericmasiello
-* eric.j.masiello@gmail.com
+* [@ericmasiello](https://twitter.com/ericmasiello)
 * Fullstack JavaScript Engineer @ Vistaprint Digital
-* Co-Instructor for FEWD 31
-* Co-Author of Mastering React Native
+* Instructor at General Assembly
+* Co-Author of *Mastering React Native*
+* Offer private lessons on HTML, CSS, JavaScript, React, & Node (email: [eric.j.masiello@gmail.com](eric.j.masiello@gmail.com))
 
 --
 
